@@ -1,0 +1,15 @@
+{
+  "name": "crontask",
+  "version": "1.0.0",
+  "description": "sending message to six countries",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manimuthuraj T",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "moment": "^2.29.1"
+  }
+}
